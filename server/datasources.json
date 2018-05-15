@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "postgreSQL": {
+    "host": "digital.morsa.com.mx",
+    "port": 5432,
+    "url": "postgres://morsaclick:m0rs4Cl1ckEc0mm3rc3@digital.morsa.com.mx:5432/digital",
+    "database": "digital",
+    "password": "m0rs4Cl1ckEc0mm3rc3",
+    "name": "postgreSQL",
+    "user": "morsaclick",
+    "connector": "postgresql"
+  }
+}
